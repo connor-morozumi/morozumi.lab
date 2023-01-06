@@ -1,0 +1,21 @@
+name: "."
+title: "Connor N Morozumi"
+description: |
+  Connor N Morozumi
+output_dir: "docs"
+theme: cnmTheme.css
+navbar:
+  right:
+    - text: "About"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html 
+    - text: "Gallery"
+      href: gallery.html
+    - text: "CV"
+      href: cv.html
+output: distill::distill_article
+
+
