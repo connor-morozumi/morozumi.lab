@@ -1,0 +1,24 @@
+---
+title: "CV"
+description: 
+output: distill::distill_article
+---
+
+## Education
+
+**Emory University** | Atlanta, GA
+
+Ph.D. in Population Biology, Ecology, and Evolution | 2016 - 2022
+
+**Oregon State University** | Corvallis, OR
+
+M.S. in Wildlife Ecology | 2013 - 2015
+
+
+
+<a href="./pdfs/Morozumi_CV_Fall 2022.pdf" target="blank">Full CV here</a>
+
+
+
+
+
