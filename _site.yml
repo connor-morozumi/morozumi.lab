@@ -15,7 +15,7 @@ navbar:
     - text: "Gallery"
       href: gallery.html
     - text: "CV"
-      href: cv.html
+      href: CV.html
 output: distill::distill_article
 
 
