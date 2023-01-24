@@ -4,6 +4,49 @@ description:
 output: distill::distill_article
 ---
 
+# Professional Appointments
+2022-present: USDA NIFA Postdoctoral Fellow, University of Louisville
+Advisor: Dr. Natalie Christian
+
+# Education
+2016-2022: PhD in Population Biology, Ecology, and Evolution, Emory University
+Dissertation: “Perturbations in plant-pollinator networks: integrating theoretical and empirical approaches to understand responses to global change”
+2013-2015: M.Sc. in Wildlife Science and Minor in Rangeland Ecology, Oregon State University
+Thesis: “Vegetation and Small Mammal Responses to Western Juniper (Juniperus occidentalis) Control in Eastern Oregon”
+Archived [here](http://hdl.handle.net/1957/57163)
+2005-2010: B.A., Environmental Studies, University of California, Santa Cruz
+Thesis: “Effects of Quercus lobata Née saplings on understory vegetation composition and productivity on two central California cattle ranches”
+Honors in the major
+2005-2010: B.S., Health Sciences, University of California, Santa Cruz
+
+# Grants and Fellowships
+USDA NIFA Postdoctoral Fellowship, $225,000
+ARCS Scholar, Atlanta Chapter $23,000
+National Defense Science and Engineering Graduate Fellowship $153,600
+Climate Change and Blue Oak Demography in the Mt. Hamilton region, The Nature Conservancy $5,000
+Coombs-Simpson Memorial Fellowship, Oregon State University $500
+
+#Teaching Experience
+Fall 2020: Fungal Microbial Ecology CURE, Course Developer and Instructor, Emory University
+Spring 2019: Statistics and Data Analysis for PBEE, Course Developer and Instructor, Emory University
+Fall 2017:Ecology, Teaching Assistant, Emory University
+Spring 2017: Quantitative Methods in Environmental Sciences, Teaching Assistant, Emory University
+Winter 2014: Principles of Fisheries and Wildlife, Online Instructor,
+Oregon State University
+Spring 2014-Summer 2015: Field sampling of Fish and Wildlife, Online Instructor, Oregon State University
+
+# Service
+2018  Presenter, STEM Clubs Atlanta
+2017  Presenter, Mary Lin Elementary Science Night
+2016  Population Biology Ecology and Evolution Seminar Committee, Emory University
+2016  STEM Symposium GDBBS Alumni Reporter, Emory University
+2015  Graduate Camp Leader, OSU STEM Academy, OSU
+2015  Graduate Mentor, F&W Undergraduate Mentorship Program, OSU
+2014  Program Coordinator, co-creator, FW Undergrad Mentorship Program, OSU
+2014  Graduate Faculty Representative, FW Graduate Student Association, OSU
+2014  Student Promotion and Tenure Committee, FW Department, OSU
+2014   Mentor, OSU STEM Academy, OSU
+2014   Volunteer, Linn Benton Salmon Watch, Oregon Trout
 ## Education
 
 **Emory University** | Atlanta, GA
